@@ -20,6 +20,8 @@ This project was inspired by Incredibox
 We also took inspiration from a dj, with music controls with a launch pad.
 
 # Our DJ Inspiration
+ Inspired by INCREDIOBOX.
+![share-incredibox](https://user-images.githubusercontent.com/97752074/171935004-04bfd8b5-35a2-44a1-9c5f-37405542d474.png)
 
 # Colors
 Colors numbered 1-12 based off of our Yellow, Orange, Pink, and Purple theme.
